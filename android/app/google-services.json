@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57683816380",
+    "project_id": "reactchat-1db6c",
+    "storage_bucket": "reactchat-1db6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57683816380:android:3ae38a0956cbe20c5f05b9",
+        "android_client_info": {
+          "package_name": "com.RealChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57683816380-ni7s36fnqjtgg97ehrc4gj16eeh0b85e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.RealChat",
+            "certificate_hash": "33ec633185f889731cf432093106860f9fcebc01"
+          }
+        },
+        {
+          "client_id": "57683816380-ggngh6r88mct6math8cj1arh2vu42tr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwg3QM3ltboE87Ki2PBfzC1LYCahnE6Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57683816380-ggngh6r88mct6math8cj1arh2vu42tr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
